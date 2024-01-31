@@ -1,6 +1,6 @@
 package ie.tudublin;
 
-public class Dog
+public class Dog extends Animal
 {
 	String name;
 	
@@ -23,7 +23,6 @@ public class Dog
 		this.name = name;
 	}
 
-	// A method
 	public void speak()
 	{
 		System.out.println("Woof. I am " + name);

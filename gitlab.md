@@ -12,7 +12,7 @@ cd
 mkdir
 mv
 find
-grep
+grep 
 ```
 
 Note, folders in the bash shell are separated using / and in Windows explorer you should have the following options checked:
