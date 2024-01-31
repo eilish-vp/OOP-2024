@@ -2,13 +2,13 @@ package ie.tudublin;
 
 public class Dog extends Animal
 {
-	String name;
 	
 
 
 	// A constructor that takes name
 	public Dog(String name)
 	{
+		this();
 		this.name = name;
 	}
 
