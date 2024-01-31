@@ -1,5 +1,5 @@
 public void helloProcessing()
 	{
 		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new MyFirstProcessing());
+        processing.core.PApplet.runSketch a = new MyFirstProcessing();
     }
